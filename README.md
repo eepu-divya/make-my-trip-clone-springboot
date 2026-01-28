@@ -71,9 +71,8 @@ curl "http://localhost:8080/search/flights?from=New%20York&to=London"
 
 ### Complete Guides
 - **[QUICK_START.md](QUICK_START.md)** - Get started in 5 minutes
-- **[FEATURES_DOCUMENTATION.md](FEATURES_DOCUMENTATION.md)** - Detailed feature guide
 - **[API_TESTING_GUIDE.md](API_TESTING_GUIDE.md)** - Complete API reference
-- **[IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md)** - Technical details
+- **[IMPLEMENTATION_SUMMARY.txt](IMPLEMENTATION_SUMMARY.txt)** - Technical details
 
 ---
 
