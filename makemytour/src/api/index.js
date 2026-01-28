@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BACKEND_URL = "https://make-my-trip-clone-springboot-1-79sy.onrender.com";
+const BACKEND_URL = "your_backend_url";
 
 export const login = async (email, password) => {
   if (!BACKEND_URL) throw new Error("API URL not configured");
